@@ -1,1 +1,3 @@
-# SepehrMN.github.io
+# sepehrmn.github.io
+
+Personal website: sepehrmn.com
